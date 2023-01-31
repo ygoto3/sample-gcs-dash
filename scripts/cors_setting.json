@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://reference.dashif.org"],
+      "responseHeader": ["Content-Type", "Access-Control-Allow-Origin"],
+      "method": ["GET", "HEAD", "DELETE"],
+      "maxAgeSeconds": 3600
+    }
+]

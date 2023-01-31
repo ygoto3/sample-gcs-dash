@@ -1,0 +1,6 @@
+input.mp4
+out/
+terraform/storage/terraform.tfstate
+terraform/storage/terraform.tfstate.backup
+terraform/storage/.terraform/
+terraform/storage/.terraform.lock.hcl
